@@ -1,115 +1,18 @@
-<div align="center">
+# Hi, I'm Rahul Gupta 👋
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · rahul-gupta-2004</sub></p>
-<h1>rahulgupta</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>MSc AI/ML &amp; MCA @ CHRIST University, Bangalore | BSc IT @ St. Xavier's, Mumbai | Building AI/ML, Quantum Computing &amp; Data systems | Tech Writer @ Medium</p>
-<p><strong>● Building and sharing work in public</strong></p>
+MSc in Artificial Intelligence & Machine Learning and MCA student at **CHRIST (Deemed to be University)** (2025–2027), with a B.Sc. in Information Technology from **St. Xavier's College, Mumbai**. I build practical systems across **AI/ML, Quantum Computing, Data Engineering, and Computer Vision**, and write technical guides on Medium.
 
-<p><a href="https://github.com/rahul-gupta-2004">GitHub</a> &nbsp;·&nbsp; <a href="https://rahul-gupta.runs-on.dev/">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/149474128?u=005797f31cc51a9ab80e81d44d1172f28c672ac6&amp;v=4" width="180" alt="rahulgupta GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+### Core Focus Areas
+* **AI, Agentic Systems & Computer Vision:** Local-first LLM workflows, multi-agent pipelines, OCR/ANPR, and vision models using Python, PyTorch/OpenCV/YOLO, FastAPI, Streamlit, and Ollama.
+* **Quantum Computing & QML:** Quantum circuits, quantum machine learning, and hybrid classical-quantum experiments using **Qiskit** and **PennyLane**.
+* **Data Engineering & Analytics:** Event-streaming pipelines, analytical storage, and BI dashboards using **Apache Kafka, PostgreSQL, DuckDB, SQLite, and Power BI**.
 
-<h2>What teams can evaluate quickly</h2>
+### Top Tech-Stack Repositories
+<!-- AUTO-REPOS:START -->
+*Updating automatically via GitHub Actions...*
+<!-- AUTO-REPOS:END -->
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>66 repositories · 1 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>324 contributions · 116 active days</p></td>
-</tr>
-</table>
-
-<p><sub>MSc AI/ML &amp; MCA @ CHRIST University, Bangalore | BSc IT @ St. Xavier's, Mumbai | Building AI/ML, Quantum Computing &amp; Data systems | Tech Writer @ Medium</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>66</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>324</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=rahul-gupta-2004&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149474128%3Fu%3D005797f31cc51a9ab80e81d44d1172f28c672ac6%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=rahul-gupta-2004&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149474128%3Fu%3D005797f31cc51a9ab80e81d44d1172f28c672ac6%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="rahulgupta GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rahul-gupta-2004&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149474128%3Fu%3D005797f31cc51a9ab80e81d44d1172f28c672ac6%26v%3D4&repos=rahul-gupta-2004%2Fmedium_qiskit_quantum%2Crahul-gupta-2004%2Frahul-gupta-2004%2Crahul-gupta-2004%2Fad-analytics-crewai%2Crahul-gupta-2004%2Fdigital-business-card&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=rahul-gupta-2004&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149474128%3Fu%3D005797f31cc51a9ab80e81d44d1172f28c672ac6%26v%3D4&repos=rahul-gupta-2004%2Fmedium_qiskit_quantum%2Crahul-gupta-2004%2Frahul-gupta-2004%2Crahul-gupta-2004%2Fad-analytics-crewai%2Crahul-gupta-2004%2Fdigital-business-card&v=recruiter-projects-1&mode=dark" width="100%" alt="rahulgupta selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/rahul-gupta-2004/medium_qiskit_quantum">medium_qiskit_quantum</a></h3>
-<p>A selected public project.</p>
-<p><sub>Jupyter Notebook · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/rahul-gupta-2004/medium_qiskit_quantum">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/rahul-gupta-2004/rahul-gupta-2004">rahul-gupta-2004</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/rahul-gupta-2004/ad-analytics-crewai">ad-analytics-crewai</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/rahul-gupta-2004/digital-business-card">digital-business-card</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rahul-gupta-2004&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149474128%3Fu%3D005797f31cc51a9ab80e81d44d1172f28c672ac6%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=rahul-gupta-2004&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149474128%3Fu%3D005797f31cc51a9ab80e81d44d1172f28c672ac6%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="rahulgupta technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>87% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>4% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>Dart</strong><br /><sub>2% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rahul-gupta-2004&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149474128%3Fu%3D005797f31cc51a9ab80e81d44d1172f28c672ac6%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=rahul-gupta-2004&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149474128%3Fu%3D005797f31cc51a9ab80e81d44d1172f28c672ac6%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="rahulgupta contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/rahul-gupta-2004">GitHub</a><br /><a href="https://rahul-gupta.runs-on.dev/">Website</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>rahulgupta · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+### Links
+* **Portfolio:** [rahul-gupta.runs-on.dev](https://rahul-gupta.runs-on.dev)
+* **LinkedIn:** [linkedin.com/in/rahul-gupta-pythondev](https://www.linkedin.com/in/rahul-gupta-pythondev)
+* **Medium:** [medium.com/@rahul.techarticles](https://medium.com/@rahul.techarticles)
